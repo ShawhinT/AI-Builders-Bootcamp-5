@@ -11,3 +11,4 @@ Getting started with AI and building with LLM-powered tools.
 Examples:
 - [Scraping AI job board](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/example_1-scrape_job_board.ipynb)
 - [Vibe Coding Data Dashboard](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/example_2-job_dashboard_vibed.py)
+- [(Live Coding) AI Job Scraper](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/live_example_1-job_board_scraper.ipynb)
