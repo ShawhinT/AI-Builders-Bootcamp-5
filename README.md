@@ -12,3 +12,11 @@ Examples:
 - [Scraping AI job board](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/example_1-scrape_job_board.ipynb)
 - [Vibe Coding Data Dashboard](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/example_2-job_dashboard_vibed.py)
 - [(Live Coding) AI Job Scraper](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-1/live_example_1-job_board_scraper.ipynb)
+
+## Session 2: LLMs, Prompt Engineering
+Here, we begin building AI systems with LLMs. Unlike machine learning, we don't need datasets to get started.
+
+Examples:
+- [Research paper summarizer](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-2/example_1-paper_summarizer.ipynb)
+- [Text classifier](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-2/example_2-text-classifier.ipynb)
+- [Local visual QA with LLaMA 3.2 Vision](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-2/example_3-local_visual_QA.ipynb)
