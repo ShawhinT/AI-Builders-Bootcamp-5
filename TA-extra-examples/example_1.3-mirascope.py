@@ -1,6 +1,7 @@
 from mirascope import llm
 from pydantic import BaseModel
 
+# Docs: https://mirascope.com/docs/mirascope
 class Book(BaseModel):
     title: str
     author: str
