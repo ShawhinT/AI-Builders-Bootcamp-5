@@ -2,6 +2,7 @@ from mirascope import llm
 from pydantic import BaseModel
 
 # Docs: https://mirascope.com/docs/mirascope
+
 class Book(BaseModel):
     title: str
     author: str
@@ -15,7 +16,7 @@ class Book(BaseModel):
 def extract_book(text: str) -> str:
     return f"Extract the book: {text}"
 
-text = "The Name of the Wind by Patrick Rothfuss"
+text = " by Patrick Rothfuss"
 book: Book = extract_book(text)
 
 print(book)
