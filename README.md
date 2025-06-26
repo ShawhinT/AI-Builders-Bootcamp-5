@@ -28,3 +28,11 @@ Examples:
 - [Analyzing Unstructured Survey Data](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-3/example_1-unstructured_survey_analysis.ipynb)
 - [RAG with LlamaIndex](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-3/example_2-rag_with_llamaindex.ipynb)
 - [PDF Parsing with Docling](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-3/example_3-pdf_parsing_docling.ipynb)
+
+## Session 4: Tool Use, AI Agents
+While prompting LLMs and automatically giving them relevant context can take us far, they still involve a traditional approach to software development. Namely, developers break down tasks into steps and translate them into code + LLM calls. 
+
+Agents present a new way of thinking about software. Rather than explicitly defining rules and business logic, agents involve giving LLMs the tools they need to solve problems.
+- [YouTube Agent](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-4/example_1-youtube_agent.ipynb)
+- [Notion MCP Agent](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-4/example_2-notion_mcp_agent.ipynb)
+- [Upwork Profile Rewriter (in a loop)](https://github.com/ShawhinT/AI-Builders-Bootcamp-5/blob/main/session-4/example_3-profile_rewriter_loop.ipynb)
