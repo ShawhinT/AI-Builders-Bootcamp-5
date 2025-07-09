@@ -1,6 +1,6 @@
 # TA Extra Examples
 
-This directory contains additional examples for teaching assistants and advanced students that demonstrate production-level AI techniques beyond what's covered in the main course sessions.
+This directory contains additional examples that demonstrate production-level AI techniques beyond what's covered in the main course sessions.
 
 ## Example 1: Structuring LLM Responses
 
