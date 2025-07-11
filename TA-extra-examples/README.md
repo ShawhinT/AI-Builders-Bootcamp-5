@@ -18,3 +18,12 @@ Demonstrates systematic optimization of LLM prompts using DSPy, moving beyond ma
 
 Examples:
 - [DSPy Notebook](./example%202%20-%20prompt%20optimization/example_2-DSPy.ipynb) - LinkedIn ghostwriter example demonstrating DSPy's prompt optimization capabilities
+
+## Example 3: FastAPI Application Architecture
+
+Demonstrates professional backend architecture patterns using FastAPI, following a layered approach with separation of concerns for building scalable web applications.
+
+Examples:
+- [FastAPI Architecture Guide](./example%203%20-%20FastAPI/README.MD) - Comprehensive guide to structuring FastAPI applications
+- [Basic FastAPI Example](./example%203%20-%20FastAPI/example_3_1-FastAPI.py) - Simple implementation of FastAPI endpoints and architecture
+- [Complete FastAPI Application](./example%203%20-%20FastAPI/example_3_2-Full.py) - Full implementation with all architectural layers
