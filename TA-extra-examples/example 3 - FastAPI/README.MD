@@ -1,8 +1,8 @@
 ## Development Workflow for Architecting a FastAPI Application
 
-After you've talked with customers to get an idea of what your most important functionality might look like you want to build an MVP as quickly as possible. How do I turn that into APIs might frontend can call to get the data it needs?
+After you've talked with potential customers to get an idea of what your most important functionality might look like you want to build an MVP as quickly as possible. How do you turn that into APIs a frontend can call to get the data it needs?
 
-Highly recommend integrating FastAPI into everything you build because it will make your development process much faster and easier.
+Highly recommend integrating FastAPI into everything you build if you plan on launching a product. It will make your development process much faster and easier.
 
 ### Step 1: Start with the User Story
 
